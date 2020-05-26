@@ -1,7 +1,7 @@
 # android_device_xiaomi_dipper
 For building TWRP for Xiaomi Mi 8
 
-TWRP device tree for Xiaomi MI 8
+PBRP device tree for Xiaomi MI 8
 
 ## Features
 
